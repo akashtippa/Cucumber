@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		//features="Features",
 		//features="C:\\JavaFrame\\Cucumber\\Features\\CucumberTags.feature",
 		features= "C:\\JavaFrame\\Cucumber\\Features\\CucumberHooks.feature",
-		glue="stepDefinitions",
+		glue="stepDefinition",
 		dryRun=false,	
 		monochrome=true,
 		strict=false,
